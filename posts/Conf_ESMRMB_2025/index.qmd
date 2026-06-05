@@ -1,0 +1,14 @@
+---
+title: "Quantifying the Impact of Formalin Fixation on R2\\* Orientation Dependency in Human Brain White Matter"
+author: "Lennart Bedarf"
+date: "2025-10-10"
+categories: [Conferece]
+---
+
+![](thumbnail.jpg)
+
+<strong>Bedarf, L.</strong>, Neuhaus D., Wendebourg M.&thinsp;J., Schlaeger R., Birkl C., Scheurer E., Lenz C. (2025).
+<em>Quantifying the Impact of Formalin Fixation on R2* Orientation Dependency in Human Brain White Matter</em>
+
+![](Poster_ESMRMB2025_Bedarf_R2Star_Anisotropy.pdf){width=100% height=1000px}
+

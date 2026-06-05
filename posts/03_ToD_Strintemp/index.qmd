@@ -1,0 +1,16 @@
+---
+title: "Evaluating the forehead temperature for estimating the postmortem interval"
+author: "Lennart Bedarf"
+date: "2026-02-18"
+categories: [Paper]
+---
+
+![](thumbnail.jpg)
+
+**Bedarf, L.**, Gerlach K., Wittig H., Scheurer E., Berger C., Lenz C. (2026).
+*Evaluating the forehead temperature for estimating the postmortem interval*.
+**Int J Legal Med**, *140*, 1863-1869.
+[DOI: 10.1007/s00414-026-03736-x](https://doi.org/10.1007/s00414-026-03736-x){targes="_blank"}
+
+
+

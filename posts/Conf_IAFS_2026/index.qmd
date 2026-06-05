@@ -1,0 +1,14 @@
+---
+title: "Time of death estimation using forehead temperature measurements"
+author: "Lennart Bedarf"
+date: "2026-05-26"
+categories: [Conferece]
+---
+
+![](thumbnail.jpg)
+
+<strong>Bedarf, L.</strong>, Gerlach K., Wittig H., Scheurer E., Berger C., Lenz C. (2026).
+<em>Time of death estimation using forehead temperature measurements</em>
+
+![](Poster_IAFS2026_Bedarf_ToD.pdf){width=100% height=1000px}
+

@@ -1,0 +1,18 @@
+---
+title: "Lennart Bedarf"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lennartbedarf
+    - icon: github
+      text: Github
+      href: https://github.com/lenn19
+---
+
+PhD Candidate in Biomedical Engineering
+
+University of Basel | Forensic Medicine & Imaging Research
