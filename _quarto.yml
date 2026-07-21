@@ -18,6 +18,10 @@ website:
         href: https://www.linkedin.com/in/lennartbedarf/
       - icon: github
         href: https://github.com/lenn19
+      - icon: globe
+        href: https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/forensic-medicine-imaging-research-group/
+      - icon: mailto
+        href: lennart.bedarf@unibas.ch
 
 format:
   html:

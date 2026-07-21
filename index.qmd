@@ -11,6 +11,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lenn19
+    - icon: envelope
+      text: E-Mail
+      href: mailto:lennart.bedarf@unibas.ch
+    - icon: globe
+      text: Research Group 
+      href: https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/forensic-medicine-imaging-research-group/
 ---
 
 PhD Candidate in Biomedical Engineering
