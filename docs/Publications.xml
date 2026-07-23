@@ -6,22 +6,22 @@
       version="2.0">
 <channel>
 <title>Lennart Bedarf</title>
-<link>https://your-website-url.example.com/Publications.html</link>
-<atom:link href="https://your-website-url.example.com/Publications.xml" rel="self" type="application/rss+xml"/>
+<link>https://lenn19.github.io/Publications.html</link>
+<atom:link href="https://lenn19.github.io/Publications.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Mon, 25 May 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Time of death estimation using forehead temperature measurements</title>
   <dc:creator>Lennart Bedarf</dc:creator>
-  <link>https://your-website-url.example.com/posts/Conf_IAFS_2026/</link>
+  <link>https://lenn19.github.io/posts/Conf_IAFS_2026/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://your-website-url.example.com/posts/Conf_IAFS_2026/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://lenn19.github.io/posts/Conf_IAFS_2026/thumbnail.jpg" class="img-fluid"></p>
 <p><strong>Bedarf, L.</strong>, Gerlach K., Wittig H., Scheurer E., Berger C., Lenz C. (2026). <em>Time of death estimation using forehead temperature measurements</em></p>
 <p><embed src="Poster_IAFS2026_Bedarf_ToD.pdf" style="width:100.0%" height="1000"></p>
 
@@ -29,40 +29,40 @@
 
  ]]></description>
   <category>Conferece</category>
-  <guid>https://your-website-url.example.com/posts/Conf_IAFS_2026/</guid>
+  <guid>https://lenn19.github.io/posts/Conf_IAFS_2026/</guid>
   <pubDate>Mon, 25 May 2026 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Evaluating the forehead temperature for estimating the postmortem interval</title>
   <dc:creator>Lennart Bedarf</dc:creator>
-  <link>https://your-website-url.example.com/posts/03_ToD_Strintemp/</link>
+  <link>https://lenn19.github.io/posts/03_ToD_Strintemp/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://your-website-url.example.com/posts/03_ToD_Strintemp/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://lenn19.github.io/posts/03_ToD_Strintemp/thumbnail.jpg" class="img-fluid"></p>
 <p><strong>Bedarf, L.</strong>, Gerlach K., Wittig H., Scheurer E., Berger C., Lenz C. (2026). <em>Evaluating the forehead temperature for estimating the postmortem interval</em>. <strong>Int J Legal Med</strong>, <em>140</em>, 1863-1869. <a href="https://doi.org/10.1007/s00414-026-03736-x" data-targes="_blank">DOI: 10.1007/s00414-026-03736-x</a></p>
 
 
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://your-website-url.example.com/posts/03_ToD_Strintemp/</guid>
+  <guid>https://lenn19.github.io/posts/03_ToD_Strintemp/</guid>
   <pubDate>Tue, 17 Feb 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Quantifying the Impact of Formalin Fixation on R2* Orientation Dependency in Human Brain White Matter</title>
   <dc:creator>Lennart Bedarf</dc:creator>
-  <link>https://your-website-url.example.com/posts/Conf_ESMRMB_2025/</link>
+  <link>https://lenn19.github.io/posts/Conf_ESMRMB_2025/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://your-website-url.example.com/posts/Conf_ESMRMB_2025/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://lenn19.github.io/posts/Conf_ESMRMB_2025/thumbnail.jpg" class="img-fluid"></p>
 <p><strong>Bedarf, L.</strong>, Neuhaus D., Wendebourg M. J., Schlaeger R., Birkl C., Scheurer E., Lenz C. (2025). <em>Quantifying the Impact of Formalin Fixation on R2* Orientation Dependency in Human Brain White Matter</em></p>
 <p><embed src="Poster_ESMRMB2025_Bedarf_R2Star_Anisotropy.pdf" style="width:100.0%" height="1000"></p>
 
@@ -70,47 +70,47 @@
 
  ]]></description>
   <category>Conferece</category>
-  <guid>https://your-website-url.example.com/posts/Conf_ESMRMB_2025/</guid>
+  <guid>https://lenn19.github.io/posts/Conf_ESMRMB_2025/</guid>
   <pubDate>Thu, 09 Oct 2025 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Detection of gunshot residues using infrared photography: influence of ammunition type, surface color and blood contamination</title>
   <dc:creator>Lennart Bedarf</dc:creator>
-  <link>https://your-website-url.example.com/posts/02_gunshot/</link>
+  <link>https://lenn19.github.io/posts/02_gunshot/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://your-website-url.example.com/posts/02_gunshot/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://lenn19.github.io/posts/02_gunshot/thumbnail.jpg" class="img-fluid"></p>
 <p>Bottoni J., Wittig H., Rost T., Schocker S., Wild P., Nachbur U., Neuhaus D., <strong>Bedarf, L.</strong>, Gerlach K., Scheurer E., Lenz C. (2025). <em>Detection of gunshot residues using infrared photography: influence of ammunition type, surface color and blood contamination</em>. <strong>Int J Legal Med</strong>, <em>140</em>, 311-321. <a href="https://doi.org/10.1007/s00414-025-03609-9" data-targes="_blank">DOI: 10.1007/s00414-025-03609-9</a></p>
 
 
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://your-website-url.example.com/posts/02_gunshot/</guid>
+  <guid>https://lenn19.github.io/posts/02_gunshot/</guid>
   <pubDate>Fri, 19 Sep 2025 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Optimized Schlieren imaging for real-time visualization of high-intensity focused ultrasound waves</title>
   <dc:creator>Lennart Bedarf</dc:creator>
-  <link>https://your-website-url.example.com/posts/01_schlieren_imaging/</link>
+  <link>https://lenn19.github.io/posts/01_schlieren_imaging/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://your-website-url.example.com/posts/01_schlieren_imaging/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://lenn19.github.io/posts/01_schlieren_imaging/thumbnail.jpg" class="img-fluid"></p>
 <p>Nawrath H., Holl A., <strong>Bedarf, L.</strong>, Mai D., Alfke H., Gröbner J.(2024). <em>Optimized Schlieren imaging for real-time visualization of high-intensity focused ultrasound waves</em>. <strong>Biomedical Engineering / Biomedizinische Technik</strong>. <a href="https://doi.org/10.1515/bmt-2024-0002" data-targes="_blank">DOI: 10.1515/bmt-2024-0002</a></p>
 
 
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://your-website-url.example.com/posts/01_schlieren_imaging/</guid>
+  <guid>https://lenn19.github.io/posts/01_schlieren_imaging/</guid>
   <pubDate>Tue, 11 Jun 2024 22:00:00 GMT</pubDate>
 </item>
 </channel>
