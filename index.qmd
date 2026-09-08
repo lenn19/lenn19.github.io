@@ -16,7 +16,7 @@ about:
       href: mailto:lennart.bedarf@unibas.ch
     - icon: globe
       text: Research Group 
-      href: https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/forensic-medicine-imaging-research-group/
+      href: https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/
 ---
 
 PhD Candidate in Biomedical Engineering
