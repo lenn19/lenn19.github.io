@@ -1,0 +1,14 @@
+---
+title: "Incomplete reversibility of fixation-induced changes in postmortem human brain white matter MRI following rehydration"
+author: "Lennart Bedarf"
+date: "2026-08-13"
+categories: [Conferece]
+---
+
+![](thumbnail.jpg)
+
+<strong>Bedarf, L.</strong>, Neuhaus D., Scheurer E., Lenz C. (2026).
+<em>Incomplete reversibility of fixation-induced changes in postmortem human brain white matter MRI following rehydration</em>
+
+![](Poster_NY_PM_Dementia_Bedarf.pdf){width=100% height=1000px}
+
