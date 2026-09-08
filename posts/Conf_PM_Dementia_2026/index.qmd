@@ -8,7 +8,7 @@ categories: [Conferece]
 ![](thumbnail.jpg)
 
 <strong>Bedarf, L.</strong>, Neuhaus D., Scheurer E., Lenz C. (2026).
-<em>Incomplete reversibility of fixation-induced changes in postmortem human brain white matter MRI following rehydration</em>
+<em>Incomplete reversibility of fixation-induced changes in postmortem human brain white matter MRI following rehydration [Poster and PowerPitch]</em>
 
-![](Poster_NY_PM_Dementia_Bedarf.pdf){width=100% height=1000px}
+![](NY_PM_Dementia_Bedarf.pdf){width=100% height=1000px}
 
