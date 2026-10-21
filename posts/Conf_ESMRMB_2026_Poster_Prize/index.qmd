@@ -1,0 +1,15 @@
+---
+title: "Poster Prize: ESMRMB 2nd Prize"
+author: "Lennart Bedarf"
+date: "2026-10-03"
+categories: [Awards & Honors]
+---
+
+![](thumbnail.jpg)
+
+<strong>Bedarf, L.</strong>, Neuhaus D., Scheurer E., Lenz C. (2026).
+<em>Incomplete reversibility of fixation-induced changes in postmortem 
+human brain white matter MRI following rehydration</em>
+
+![Poster Prize 1](gross.jpg){width=80% fig-align="center"}
+![Poster Prize 2](nah.jpg){width=80% fig-align="center"}
